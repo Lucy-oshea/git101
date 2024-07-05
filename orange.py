@@ -1,4 +1,2 @@
-print (orange)
-:w
-:p
+print ("I like oranges also!")
 
