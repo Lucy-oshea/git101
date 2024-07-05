@@ -1,0 +1,4 @@
+print (orange)
+:w
+:p
+
